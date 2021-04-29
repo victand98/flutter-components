@@ -30,6 +30,11 @@
       "ruta": "slider",
       "icon": "tune",
       "texto": "Slider - Checkbox"
+    },
+    {
+      "ruta": "list",
+      "icon": "list",
+      "texto": "List and Scroll"
     }
   ]
 }
